@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Covid19Helpdesk</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="email">Email</string>
+    <string name="current_address">Current Address</string>
+    <string name="same_as_above">Same as Above</string>
+    <string name="get_current_location">Get Current Address</string>
+    <string name="door_no_plot_no">Door No / Plot No</string>
+    <string name="building_app">Building / Apartment Name</string>
+    <string name="street">Street</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="tamil_nadu">Tamil Nadu</string>
+    <string name="pin">Pin</string>
+    <string name="landmark">Landmark</string>
+    <string name="submit">Submit</string>
+    <string name="otp_msg">Thank you for registering into our system. Please upload your personal identification details. Then only you can request for support or help others</string>
+    <string name="upload_info">Upload your information:</string>
+    <string name="address_proof">Aadhar or PAN or Driving License</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="personal_photo">Personal Photo</string>
+    <string name="enter_otp">Enter your Otp</string>
+    <string name="no_internet_connection">Please switch on your Network Connection</string>
+    <string name="okay">Okay</string>
+    <string name="cancel">Cancel</string>
+    <string name="covid_help_desk">Covid 19 Help Desk</string>
+    <string name="registration">Registration</string>
+    <string name="user_type">Usertype</string>
+    <string name="enter_first_name">Enter First name</string>
+    <string name="enter_mobile_no">Enter Mobile number</string>
+    <string name="enter_valid_mobile_no">Enter Valid Mobile number</string>
+    <string name="choose_user_type">Choose Usertype</string>
+    <string name="register_alert_msg">Thank you for registering into our system. Please upload your personal identification details. Then only you can request for support or help others.</string>
+
+    <string name="splashenglish">Natural Disaster –
+Coronavirus Help Support System
+TamilNadu
+</string>
+    <string name="splashtamil">இயற்கை பேரழிவு –
+கொரோனா வைரஸ் உதவி ஆதரவு அமைப்பு
+தமிழ்நாடு
+</string>
+
+    <string name="home">Home</string>
+
+    <string-array name="user_types">
+        <item>Usertype</item>
+        <item>Needy</item>
+        <item>Provider</item>
+        <item>Both</item>
+    </string-array>
+</resources>
