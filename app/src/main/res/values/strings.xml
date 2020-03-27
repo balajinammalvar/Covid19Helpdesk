@@ -44,7 +44,8 @@ TamilNadu
 </string>
 
     <string name="home">Home</string>
-
+    <string name="provider">I Am Provider</string>
+    <string name="helper">I Need Help</string>
     <string-array name="user_types">
         <item>Usertype</item>
         <item>Needy</item>
